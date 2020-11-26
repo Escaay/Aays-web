@@ -33,4 +33,3 @@ console.log('第二次Git');
 
 // 删除分支：git branch -d <name>
 console.log('第三次Git')
-console.log('主分支');
