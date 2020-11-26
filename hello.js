@@ -29,7 +29,7 @@ console.log('第二次Git');
 
 // 创建+切换分支：git checkout -b <name>或者git switch -c <name>
 
-// 合并某分支到当前分支：git merge <name>
+// 合并某分支到当前分支：git merge <name>（先切去合并后的分支）
 
 // 删除分支：git branch -d <name>
 console.log('第三次Git')
