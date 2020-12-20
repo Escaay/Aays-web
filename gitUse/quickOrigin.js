@@ -8,7 +8,7 @@
 
 // 第四步：  添加本地代码  git add .
 
-// 第五步： 提交本地代码 git commit -m "init"
+// 第五步： 提交本地代码 git commit -m 说明
 
 // 第六步：设置某分支为远程仓库的默认push分支：git push -u 远程仓库名 分支名
 
